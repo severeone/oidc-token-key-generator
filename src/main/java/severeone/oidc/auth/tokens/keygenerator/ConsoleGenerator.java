@@ -1,7 +1,7 @@
-package co.kernelnetworks.oidc.auth.tokens.keygenerator;
+package severeone.oidc.auth.tokens.keygenerator;
 
-import co.kernelnetworks.oidc.auth.tokens.gen.AccessTokenKeyGenerator;
-import co.kernelnetworks.oidc.auth.tokens.gen.IDTokenKeyGenerator;
+import severeone.oidc.auth.tokens.gen.AccessTokenKeyGenerator;
+import severeone.oidc.auth.tokens.gen.IDTokenKeyGenerator;
 
 import com.nimbusds.jose.JOSEException;
 
